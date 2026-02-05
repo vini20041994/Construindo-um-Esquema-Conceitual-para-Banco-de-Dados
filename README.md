@@ -21,9 +21,9 @@ O objetivo principal é **representar corretamente as entidades, atributos e rel
 ## 🗂 Estrutura do Repositório
 
 ├── Oficina_mecanica/
-│ ├── Oficina_mecanica.mwb # Modelo no MySQL Workbench
-│ ├── Oficina_mecanica.mwb.bak # Backup automático do Workbench
-│ └── Oficina_mecanica.pdf # DER exportado em PDF
+  ├── Oficina_mecanica.mwb # Modelo no MySQL Workbench
+  ├── Oficina_mecanica.mwb.bak # Backup automático do Workbench
+  └── Oficina_mecanica.pdf # DER exportado em PDF
 ├── README.md
 
 
