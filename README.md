@@ -84,5 +84,6 @@ Este modelo pode ser expandido para atender cenários mais complexos, incluindo:
 
 ## 👤 Autor
 
-**Vinicius Anjos**
+**Vinicius Joacir dos Anjos**
+
 Projeto desenvolvido para estudo e prática de **modelagem de banco de dados**.
